@@ -27,7 +27,6 @@ I'm William, a **software engineer at [Clientbook](https://www.clientbook.com/)*
 - Skills: Excellent *soft skills* from 3+ years of D2D Sales experience, *work ethic and curiosity* developed during a year plus of carpentry/construction, and *love to serve* as exemplified during my 2 years of voluntary missionary service for [the Church of Jesus Christ of Latter-day Saints](https://www.churchofjesuschrist.org/?lang=eng).
 
 ## Let's Connect!
-
-- Here is my [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-torman-b7bb8b291/) profile
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-torman-b7bb8b291/)
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
