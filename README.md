@@ -2,7 +2,7 @@
 
 Hello, GitHub! 👋
 
-I'm William, a **software engineer at [Clientbook](https://www.clientbook.com/)** and a **student at Brigham Young University-Idaho** interested in building cool apps, web development, and learning new technologies. Welcome to my GitHub profile!
+I'm William, a **software engineer** and a **student at Brigham Young University-Idaho** interested in building cool apps, web development, and learning new technologies. Welcome to my GitHub profile!
 <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="25" height="25"/>
 
 ## About Me
