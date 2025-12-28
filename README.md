@@ -29,5 +29,7 @@ I'm William, a **software engineer** and a **student at Brigham Young University
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-torman-b7bb8b291/)
+### Check out my Facebook Group for Connecting Devs!
+[![Facebook Group](https://img.shields.io/badge/Facebook_Group-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/g/1b4L8NWzmb/)
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
