@@ -25,7 +25,7 @@ I'm William, a **software engineer** and a **student at Brigham Young University
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   </div>
-- Skills: Excellent *soft skills* from 3+ years of D2D Sales experience, *work ethic and curiosity* developed during a year plus of carpentry/construction, and *love to serve* as exemplified during my 2 years of voluntary missionary service for [the Church of Jesus Christ of Latter-day Saints](https://www.churchofjesuschrist.org/?lang=eng).
+- Skills: Excellent *soft skills* from 3+ years of D2D Sales experience, *work ethic and curiosity* developed during 2 years of carpentry/construction, and *love to serve* as exemplified during my 2 years of voluntary missionary service for [the Church of Jesus Christ of Latter-day Saints](https://www.churchofjesuschrist.org/?lang=eng).
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-torman-b7bb8b291/)
