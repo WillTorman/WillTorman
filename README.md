@@ -9,10 +9,8 @@ I'm William, a **software engineer** and a **student at Brigham Young University
 - I'm currently learning:
   <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
   </div>
-- My goals are to create meaningful software and inspire other devs!
+- My goals are to become an excellent back-end developer and inspire other devs!
 - Ask me about what got me into tech and programming, my favorite personal project, or what I find to be most difficult in SWE.
 - I speak english (native) and spanish (fluent)
 
@@ -25,6 +23,7 @@ I'm William, a **software engineer** and a **student at Brigham Young University
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   </div>
 - Skills: Excellent *soft skills* from 3+ years of D2D Sales experience, *work ethic and curiosity* developed during 2 years of carpentry/construction, and *love to serve* as exemplified during my 2 years of voluntary missionary service for [the Church of Jesus Christ of Latter-day Saints](https://www.churchofjesuschrist.org/?lang=eng).
 
