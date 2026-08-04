@@ -2,34 +2,75 @@
 
 Hello, GitHub! 👋
 
-I'm William, a **software engineer** and a **student at Brigham Young University-Idaho** interested in building cool apps, web development, and learning new technologies. Welcome to my GitHub profile!
-<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="25" height="25"/>
+I'm William, a **Software Engineering student at Brigham Young University-Idaho** and an aspiring **Backend Developer**. I enjoy building software, solving problems, and learning how systems work under the hood.
 
-## About Me
-- I'm currently learning:
-  <div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-  </div>
-- My goals are to become an excellent back-end developer and inspire other devs!
-- Ask me about what got me into tech and programming, my favorite personal project, or what I find to be most difficult in SWE.
-- I speak english (native) and spanish (fluent)
+I'm currently focused on building reliable APIs, working with databases, and developing real-world applications with **Node.js, JavaScript, and PostgreSQL**.
 
-## Technologies and Tools
-- Proficient in:
-  <div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  </div>
-- Skills: Excellent *soft skills* from 3+ years of D2D Sales experience, *work ethic and curiosity* developed during 2 years of carpentry/construction, and *love to serve* as exemplified during my 2 years of voluntary missionary service for [the Church of Jesus Christ of Latter-day Saints](https://www.churchofjesuschrist.org/?lang=eng).
+## 👨‍💻 About Me
 
-## Let's Connect!
+- 🎓 Software Engineering student at Brigham Young University-Idaho
+- 💻 Focused on **backend development and software engineering**
+- 🚀 Currently building applications with **Node.js, JavaScript, and PostgreSQL**
+- 🐧 Learning and working with **Linux**
+- 🧠 Interested in APIs, databases, system design, and scalable software
+- 🛠️ I enjoy learning by building real-world projects
+- 🌎 English (native) & Spanish (fluent)
+
+## 🛠️ Technologies & Tools
+
+### Backend
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
+
+### Frontend
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+</div>
+
+### Tools & Systems
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+</div>
+
+## 🎯 Current Goals
+
+I'm currently focused on becoming a strong backend developer by building projects that demonstrate:
+
+- RESTful API development
+- Database design and SQL
+- Authentication & authorization
+- Testing and debugging
+- Git & version control
+- Linux and server administration
+- Deployment and cloud technologies
+- Software architecture and system design
+
+## 🚀 Projects
+
+I believe the best way to learn software engineering is to build.
+
+Check out my repositories to see projects I've built while developing my skills in backend development, web development, and software engineering.
+
+## 💼 Beyond Code
+
+Before pursuing software engineering, I gained experience in **sales and construction**, which taught me communication, problem-solving, discipline, adaptability, and how to work effectively with people.
+
+I bring those experiences into software development by approaching problems with curiosity, persistence, and a focus on building useful solutions.
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with other developers, learning from others, and discussing software engineering.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-torman-b7bb8b291/)
-### Check out my Facebook Group for Connecting Devs!
-[![Facebook Group](https://img.shields.io/badge/Facebook_Group-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/g/1b4L8NWzmb/)
 
-Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+---
+
+Thanks for stopping by! 🚀
